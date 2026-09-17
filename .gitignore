@@ -1,0 +1,17 @@
+# Compiled output
+bin/
+bin-test/
+*.class
+
+# Runtime data (generated when the app runs - not part of the source submission)
+data/
+
+# Test scratch directories
+test-data/
+
+# OS/IDE junk
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
