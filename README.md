@@ -17,7 +17,7 @@ Analytics.
 See [`statement.md`](statement.md) for the full problem statement, scope,
 and target users.
 
-## Features
+## Features - Lets explore them together
 
 - **Event Management** - create, search, update, cancel, and delete events;
   track lifecycle status (`UPCOMING`, `ONGOING`, `COMPLETED`, `CANCELLED`).
